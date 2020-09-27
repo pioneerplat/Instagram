@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7683CC9F-CC60-41C8-957D-31FD0AF1D72F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3143D12-BC02-4565-86C0-8E24692B1FD9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Instargram/Resources/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "insertNewUSer(with:username:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B3143D12-BC02-4565-86C0-8E24692B1FD9 - cfc1c047b0009ee0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Instargram.DatabaseManager.insertNewUSer(with: Swift.String, username: Swift.String, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Instargram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jangwookun/Desktop/Instargram/Instargram/Resources/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "354">
+               </Location>
+               <Location
+                  uuid = "B3143D12-BC02-4565-86C0-8E24692B1FD9 - 3727f8f7959a1dcd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;, __C.FIRDatabaseReference) -&gt; () in Instargram.DatabaseManager.insertNewUSer(with: Swift.String, username: Swift.String, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Instargram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jangwookun/Desktop/Instargram/Instargram/Resources/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "94">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
